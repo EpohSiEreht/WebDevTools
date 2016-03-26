@@ -1,0 +1,18 @@
+{
+  "name": "webdevtools",
+  "version": "1.0.0",
+  "description": "A resource page for people interested in web development.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.10",
+    "morgan": "^1.7.0"
+  }
+}
